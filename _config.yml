@@ -21,7 +21,7 @@
 title: Jared Bagwell's Portfolio
 email: jmbagwell14@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
- A central location to showcase notable projects, tools, components, and an updated resume. 
+ A central location to showcase notable projects, tools, components, and an updated resume. This site is compiled using "Github Pages" and "Jekyll" a static site generator.   
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://jaredbagwell.ddns.net/" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  baglett
